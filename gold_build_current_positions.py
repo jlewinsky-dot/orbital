@@ -5,7 +5,6 @@ Builds orbital.gold.current_positions: one row per satellite with its
 propagated position (lat/lon/alt) as of run time, using SGP4 over the
 latest element set in silver.gp_history.
 """
-%pip install sgp4
 import math
 from datetime import datetime, timezone
 
