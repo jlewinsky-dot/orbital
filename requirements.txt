@@ -1,3 +1,4 @@
 requests
 pyspark
-spark
+pandas
+sgp4
